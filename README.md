@@ -1,2 +1,2 @@
 # oma-server
-Archive with HTTP server implementation
+Archive with modules for open mainframe implementation
