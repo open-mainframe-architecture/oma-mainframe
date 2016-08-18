@@ -1,0 +1,21 @@
+{
+  "name": "oma-mainframe",
+  "description": "Archive with modules for open mainframe implementations.",
+  "main": "index",
+  "version": "10.0.1",
+  "keywords": [
+    "JavaScript",
+    "class scripts",
+    "mainframe",
+    "HTTP"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/open-mainframe-architecture/oma-server.git"
+  },
+  "author": "open.mainframe@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/open-mainframe-architecture/oma-server/issues"
+  }
+}
